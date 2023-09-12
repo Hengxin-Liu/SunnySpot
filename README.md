@@ -1,5 +1,5 @@
 # SunnySpot Details:
 
-# This system offers administrators the ability to manage cabins by providing both the view and controller functionalities. Administrators can create, modify, or delete cabins using this interface.
+# It provides the view for staff to manage cabin information to add, modify or delete. Additionally, it records log-in and log-out
 
-# Additionally, the system displays the staff login and logout times.
+
